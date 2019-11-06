@@ -5,7 +5,7 @@ The purpose of the project is to find the shortests paths in a graph to move ant
 All solutions involve rigorous input validation and algorithmic optimization.
 
 ## Compiling
-------
+
 Run the following commands:
 
 #### **_To compile:_**
