@@ -19,7 +19,7 @@ make re
 
 
 ## Running
-------
+
 To run the program:
 
 `./lemin < path/map.txt`
